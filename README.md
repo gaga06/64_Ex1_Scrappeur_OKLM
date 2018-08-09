@@ -28,7 +28,7 @@ Cette application est un simple formulaire, qui demande le nom de la monnaie dem
 * **Lancer** `$ rails server`
 * **Se rendre sur localhost:3000 via votre navigateur**
 
-## Team
+## Team :
 
 Gaëlle, Mathile et Thomas
 

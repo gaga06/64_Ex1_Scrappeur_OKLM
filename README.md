@@ -21,6 +21,8 @@ Cette application est un simple formulaire, qui demande le nom de la monnaie dem
 
 ## Localement : 
 
+* **gem 'nokogiri' à installer**
+
 Se positionner sur le dossier avec le terminal
 
 * **Lancer** `$ bundle install`
@@ -32,6 +34,13 @@ Se positionner sur le dossier avec le terminal
 
 ## Team
 
+gem 'nokogiri'
+
+$ bundle install
+$ rails db:create
+
+$ git add .
+$ git commit -m ‘test’
 
 
 

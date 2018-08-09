@@ -1,4 +1,4 @@
-# Scrappeur OKLM [![Scrappeur OKLM][cult-img]][cult]
+# Scrappeur OKLM [![Scrappeur OKLM][izi-img]][izi]
 
 <img src="https://www.oklm.com/wp-content/themes/OKLM-child/img/oklm-logo.png" align="right"
      title="Size Limit logo by Anton Lovchikov" width="120" height="178">

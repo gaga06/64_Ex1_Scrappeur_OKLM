@@ -26,7 +26,7 @@ Cette application est un simple formulaire, qui demande le nom de la monnaie dem
 * **Lancer** `$ rails db:create`
 * **Lancer** `$ rails db:migrate`
 * **Lancer** `$ rails server`
-* **Se rendre sur localhost:3000 avec un navigateur**
+* **Se rendre sur localhost:3000 via votre navigateur**
 
 ## Team
 

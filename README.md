@@ -1,6 +1,6 @@
-# Size Limit [![Scrappeur OKLM][cult-img]][cult]
+# Scrappeur OKLM [![Scrappeur OKLM][cult-img]][cult]
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+<img src="https://www.oklm.com/wp-content/themes/OKLM-child/img/oklm-logo.png" align="right"
      title="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 Size Limit is a tool to prevent JavaScript libraries bloat.

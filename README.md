@@ -1,7 +1,7 @@
 # Scrappeur OKLM
 
-<img src="https://www.oklm.com/wp-content/themes/OKLM-child/img/oklm-logo.png" align="right"
-     title="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<img src="https://www.oklm.com/wp-content/themes/OKLM-child/img/oklm-logo.png" align="center"
+     title="oklm logo" width="120" height="178">
 
 Boursicoti, boursicota, cherche ta monnaie, tu la trouveras !
 Salut à toi jeune boursicoteur ! 

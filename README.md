@@ -3,16 +3,14 @@
 <img src="https://www.oklm.com/wp-content/themes/OKLM-child/img/oklm-logo.png" align="right"
      title="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
-Size Limit is a tool to prevent JavaScript libraries bloat.
-With it, you know exactly for how many kilobytes your JS library
-increases the user bundle.
+Boursicoti, boursicota, cherche ta monnaie, tu la trouveras !
+Salut à toi jeune boursicoteur ! 
+Sers-toi de notre service pour gagner des K € en action
 
-You can add Size Limit to your continuous integration service
-(such as Travis CI) and set the limit. If you accidentally
-add a massive dependency, Size Limit will throw an error.
+
 
 <p align="center">
-  <img src="./img/example.png" alt="Size Limit example"
+  <img src="http://www.sinoxdvd.com/wp-content/uploads/2014/12/gfgfgf.png" alt="Booba sur Scrappeur OKLM"
        width="654" height="450">
 </p>
 

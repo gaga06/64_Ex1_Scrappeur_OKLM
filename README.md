@@ -251,9 +251,22 @@ Le serveur Heroku est parfois un peu capricieux.. Un petit reload et ça passe !
 
 ## Comment accéder au programme en local ?
 Se positionner sur le dossier avec le terminal
-Lancer `$ bundle install`
+* **Lancer** `$ bundle install`
 Lancer `$ rails db:migrate`
 Lancer `$ rails server`
 Se rendre sur localhost:3000 avec un navigateur
 Gems ruby utilisées
 Détail dans le Gemfile
+
+
+* **path**: relative paths to files. The only mandatory option.
+  It could be a path `"index.js"`, a pattern `"dist/app-*.js"`
+  or an array `["index.js", "dist/app-*.js"]`.
+* **limit**: size limit for files from `path` option. It should be a string
+  with a number and unit (`100 B`, `10 KB`, etc).
+* **name**: the name of this section. It will be useful only
+  if you have multiple sections.
+* **webpack**: with `false` will disable webpack.
+* **gzip**: with `false` will disable gzip compression.
+* **config**: a path to custom webpack config.
+* **ignore**: an array of files and dependencies to ignore from project size.

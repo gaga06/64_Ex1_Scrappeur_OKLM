@@ -17,10 +17,21 @@ Cette application est un simple formulaire, qui demande le nom de la monnaie dem
 
 ## Lien Heroku : 
 
-Lien [Travis CI](https://github.com/dwyl/learn-travis).
+[Scrappeur OKLM](https://scrappeur-oklm-nice.herokuapp.com/)
 
 ## Localement : 
 
+Se positionner sur le dossier avec le terminal
+
+* **Lancer** `$ bundle install`
+* **Lancer** `$ rails db:migrate`
+* **Lancer** `$ rails server`
+
+Se rendre sur localhost:3000 avec un navigateur
+Gems ruby utilisées
+Détail dans le Gemfile
+
+## Team
 
 
 
@@ -34,13 +45,5 @@ Le serveur Heroku est parfois un peu capricieux.. Un petit reload et ça passe !
 
 ## Comment accéder au programme en local ?
 
-Se positionner sur le dossier avec le terminal
 
-* **Lancer** `$ bundle install`
-* **Lancer** `$ rails db:migrate`
-* **Lancer** `$ rails server`
-
-Se rendre sur localhost:3000 avec un navigateur
-Gems ruby utilisées
-Détail dans le Gemfile
 

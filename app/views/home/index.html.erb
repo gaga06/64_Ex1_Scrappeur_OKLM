@@ -6,9 +6,9 @@ Sers-toi de notre service pour gagner des K € en action </h4>
 <p>Choisis ta monnaie</p>
 
 <form action="/">
-  <select name="monnaie">
-     <% @currencies_values.each do |tab| %>
-      <option value="currency"><%= tab.first["name"] %></option>
+  <select name="currency">
+     <% @currencies_values.each do |name, value| %>
+      <option><%= name %></option>
     <% end %>
   </select>
   <br><br>
@@ -16,4 +16,12 @@ Sers-toi de notre service pour gagner des K € en action </h4>
 </form>
 
 
+
+<% if params[:currency].nil? %>
+<% else %>
+<p> La valeur trouvée à cet instant est: </p>
+<p> $ <%= @currencies_values["#{@currency}"] %> </p>
+<%= params[:id] %>
+
+<% end %>
 

@@ -21,7 +21,7 @@ Cette application est un simple formulaire, qui demande le nom de la monnaie dem
 
 ## Localement : 
 
-* **Git clone `$ lien
+* **Git clone** `$ lien
 * **Lancer** `$ bundle install`
 * **Lancer** `$ rails db:create`
 * **Lancer** `$ rails db:migrate`

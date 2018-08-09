@@ -1,0 +1,19 @@
+<h2>Boursicoti, boursicota, cherche ta monnaie, tu la trouveras !</h2>
+
+<h4>Salut à toi jeune boursicoteur ! <br>
+Sers-toi de notre service pour gagner des K € en action </h4>
+
+<p>Choisis ta monnaie</p>
+
+<form action="/">
+  <select name="monnaie">
+     <% @currencies_values.each do |tab| %>
+      <option value="currency"><%= tab.first["name"] %></option>
+    <% end %>
+  </select>
+  <br><br>
+  <input type="submit">
+</form>
+
+
+

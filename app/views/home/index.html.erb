@@ -1,10 +1,15 @@
+<section class='CTA'>
+<div style="text-align: center;">
+<br>
+<br>
 <h2>Boursicoti, boursicota, cherche ta monnaie, tu la trouveras !</h2>
-
+<br>
 <h4>Salut à toi jeune boursicoteur ! <br>
 Sers-toi de notre service pour gagner des K € en action </h4>
-
-<p>Choisis ta monnaie</p>
-
+<br>
+ <%= image_tag 'bonhomme.jpg', alt: "bonhomme", width: 100, height: 100  %>
+<p>Choisis ta monnaie:</p>
+<br>
 <form action="/">
   <select name="currency">
      <% @currencies_values.each do |name, value| %>
@@ -16,12 +21,17 @@ Sers-toi de notre service pour gagner des K € en action </h4>
 </form>
 
 
-
 <% if params[:currency].nil? %>
 <% else %>
+<br>
 <p> La valeur trouvée à cet instant est: </p>
 <p> $ <%= @currencies_values["#{@currency}"] %> </p>
 <%= params[:id] %>
 
 <% end %>
+<br> <br>
 
+<%= image_tag 'cat.jpg', alt: "cat", width: 100, height: 100  %>
+
+</div>
+</section>

@@ -30,7 +30,7 @@ Cette application est un simple formulaire, qui demande le nom de la monnaie dem
 
 ## Team :
 
-Gaëlle, Mathile et Thomas
+Gaëlle, Mathilde et Thomas
 
 
 
